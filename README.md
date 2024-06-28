@@ -38,7 +38,7 @@ The project uses GSAP for animations. Below is the CDN link included in the proj
 
 ```
 
-## Locomotive Scroll CDN
+### Locomotive Scroll CDN
 
 The project uses Locomotive Scroll for smooth scrolling and parallax effects. Below is the CDN link included in the project:
 
